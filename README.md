@@ -12,6 +12,11 @@ This repository contains code for **Project 1** of ECE 219 (Large-Scale Data Min
 4. Run the notebook cells in order.
 
 > The dataset file is **intentionally ignored** and not tracked in this repository.
+> **Pretrained GloVe embeddings** (e.g., `glove.6B.300d.txt`) are also **intentionally ignored** due to their large size.  
+> If needed, they can be downloaded from:
+> ```
+> https://nlp.stanford.edu/data/glove.6B.zip
+> ```
 
 ---
 
@@ -26,7 +31,7 @@ This repository contains code for **Project 1** of ECE 219 (Large-Scale Data Min
   - Evaluation and comparison of representations
 
 - `.gitignore`  
-  Excludes the dataset and other non-source artifacts.
+  Excludes the dataset, pretrained embeddings (GloVe), and other non-source artifacts.
 
 ---
 
